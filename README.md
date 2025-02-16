@@ -1,4 +1,3 @@
-# Python DApp Template
+# Marselo Software
 
-This is a template for Python Cartesi DApps. It uses python3 to execute the backend application.
-The application entrypoint is the `dapp.py` file.
+https://marselo-software.github.io/marselo-docs/
