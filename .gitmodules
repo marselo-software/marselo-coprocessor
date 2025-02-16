@@ -1,0 +1,3 @@
+[submodule "lib/coprocessor-base-contract"]
+	path = lib/coprocessor-base-contract
+	url = https://github.com/Mugen-Builders/coprocessor-base-contract
