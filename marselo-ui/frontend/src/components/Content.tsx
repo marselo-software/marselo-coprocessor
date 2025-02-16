@@ -6,7 +6,7 @@ export default function Content() {
         <header className="mb-10">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">Marselo Documentation</h1>
           <p className="text-gray-600 text-lg">
-            Welcome to the official Marselo documentation. Here, you'll find detailed information about how to use the Marselo platform, including setup, features, and best practices.
+          Welcome to the official Marselo documentation. Here, you'll find detailed information about how to use the Marselo platform, including setup, features, and best practices. For more details, visit our <a href="https://marselo-software.github.io/marselo-docs/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline">official documentation</a>.
           </p>
         </header>
 
